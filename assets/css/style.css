@@ -1,0 +1,75 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    background-color:transparent;
+
+}
+html,section { /*background do site */
+ background:url("bg.png");
+    background-color:#efefef;
+}
+.rodape {
+background-color: #ef476f;
+}
+.rodape-copy {
+    background-color: #000;
+}
+
+.pink-header,figcaption {
+    color:#ef476f;
+    font-family: 'Sriracha', cursive;
+}
+hr {
+        margin: auto;
+        width: 30%;
+        color: #fa0f46;
+
+}
+
+.CTA{
+    background-color: #ef476f;
+    font-family: 'Sriracha', cursive;
+}
+.CTA:hover {
+    background-color: #fa0f46;
+    font-family: 'Sriracha', cursive;
+}
+.menu-link {
+    font-family: 'Sriracha', cursive;
+}
+b { 
+    color: #fa0f46;
+}
+.brand-logo {
+    font-family: 'Cookie', cursive;
+}
+.brand-logo-mobile {
+    font-family: 'Cookie', cursive;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.social {
+    font-family: 'Sriracha', cursive;
+    display: inline-block;
+}
+
+.navbar-fixed { /*mecessário para corrigir o bug do sidenav */
+    z-index: 998;
+  }
+  .slider .indicators .indicator-item.active {
+      background-color:#fa0f46;
+  }
+/*Add as aspas nos elementos do slide*/
+  .quote::before {
+      content: "\"";
+  }
+  .quote:after {
+    content: "\"";
+}
