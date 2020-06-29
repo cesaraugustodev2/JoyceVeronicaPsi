@@ -8,7 +8,6 @@
 
 }
 html,section { /*background do site */
- background:url("bg.png");
     background-color:#efefef;
 }
 .rodape {
@@ -85,4 +84,7 @@ b {
     left: 0;
     width: 100% !important;
     height: 100% !important;
+}
+.col {
+    padding: 100px;
 }
