@@ -4,47 +4,55 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
     font-size: 100%;
-    background-color:transparent;
+    background-color: transparent;
+}
 
+html, section {
+    /*background do site */
+    background-color: #efefef;
 }
-html,section { /*background do site */
-    background-color:#efefef;
-}
+
 .rodape {
-background-color: #ef476f;
+    background-color: #ef476f;
 }
+
 .rodape-copy {
     background-color: #000;
 }
 
-.pink-header,figcaption {
-    color:#ef476f;
+.pink-header, figcaption {
+    color: #ef476f;
     font-family: 'Sriracha', cursive;
 }
-hr {
-        margin: auto;
-        width: 30%;
-        color: #fa0f46;
 
+hr {
+    margin: auto;
+    width: 30%;
+    color: #fa0f46;
 }
 
-.CTA{
+.CTA {
     background-color: #ef476f;
     font-family: 'Sriracha', cursive;
 }
+
 .CTA:hover {
     background-color: #fa0f46;
     font-family: 'Sriracha', cursive;
 }
+
 .menu-link {
     font-family: 'Sriracha', cursive;
 }
-b { 
+
+b {
     color: #fa0f46;
 }
+
 .brand-logo {
     font-family: 'Cookie', cursive;
 }
+
 .brand-logo-mobile {
     font-family: 'Cookie', cursive;
 }
@@ -54,30 +62,37 @@ b {
     height: auto;
     object-fit: cover;
 }
+
 .social {
     font-family: 'Sriracha', cursive;
-    display: inline-block;
 }
 
-.navbar-fixed { /*mecessário para corrigir o bug do sidenav */
+.navbar-fixed {
+    /*mecessário para corrigir o bug do sidenav */
     z-index: 998;
-  }
-  .slider .indicators .indicator-item.active {
-      background-color:#fa0f46;
-  }
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #fa0f46;
+}
+
 /*Add as aspas nos elementos do slide*/
-  .quote::before {
-      content: "\"";
-  }
-  .quote:after {
-    content: "\"";
-} /*Google maps responsivo */
+.quote::before {
+    content: '"';
+}
+
+.quote:after {
+    content: '"';
+}
+
+/*Google maps responsivo */
 .google-maps {
     position: relative;
-    padding-bottom: 75%; // This is the aspect ratio
+    padding-bottom: 75%;
     height: 0;
     overflow: hidden;
 }
+
 .google-maps iframe {
     position: absolute;
     top: 0;
@@ -85,6 +100,19 @@ b {
     width: 100% !important;
     height: 100% !important;
 }
+
 .col {
     padding: 100px;
+}
+
+@media(min-width:700px) {
+    a {
+        padding: 10px;
+    }
+}
+.pink-border  {
+    border: 2px solid #fa0f46;
+}
+.spacing {
+padding:5px;
 }
