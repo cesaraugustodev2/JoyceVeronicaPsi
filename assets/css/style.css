@@ -116,3 +116,8 @@ b {
 .spacing {
 padding:5px;
 }
+@media (min-width: 320px) and (max-width: 480px) {
+    .col.s12 > .btn {
+        width: 100%;
+    }
+}
