@@ -66,6 +66,9 @@ b {
 .social {
     font-family: 'Sriracha', cursive;
 }
+.social:hover {
+    font-family: 'Sriracha', cursive;
+}
 
 .navbar-fixed {
     /*mecessário para corrigir o bug do sidenav */

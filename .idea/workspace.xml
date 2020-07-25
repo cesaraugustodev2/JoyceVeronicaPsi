@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bdca939e-7cfb-4c97-84b9-628218c8a90f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,8 @@
       <updated>1595615578896</updated>
       <workItem from="1595615592968" duration="107000" />
       <workItem from="1595622874731" duration="6678000" />
-      <workItem from="1595700812649" duration="4832000" />
+      <workItem from="1595700812649" duration="7471000" />
+      <workItem from="1595716418194" duration="842000" />
     </task>
     <servers />
   </component>
@@ -103,6 +105,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="441" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1595623077433" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1595709865788">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1595709865788" />
     <state x="184" y="28" key="SettingsEditor" timestamp="1595623141567">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
