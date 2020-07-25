@@ -10,6 +10,7 @@
 html, section {
     /*background do site */
     background-color: #efefef;
+    overflow-x: hidden;
 }
 
 .rodape {

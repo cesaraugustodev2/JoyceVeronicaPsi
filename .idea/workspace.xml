@@ -65,7 +65,7 @@
       <workItem from="1595615592968" duration="107000" />
       <workItem from="1595622874731" duration="6678000" />
       <workItem from="1595700812649" duration="7471000" />
-      <workItem from="1595716418194" duration="842000" />
+      <workItem from="1595716418194" duration="4122000" />
     </task>
     <servers />
   </component>
@@ -87,6 +87,13 @@
                       </list>
                     </value>
                   </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="fade" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
@@ -101,10 +108,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1595623170748" />
-    <state x="441" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595623077433">
+    <state x="441" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595720197499">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="441" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1595623077433" />
+    <state x="441" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1595720197499" />
     <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1595709865788">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
